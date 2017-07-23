@@ -1,0 +1,6 @@
+.tab_news>div.div1,.tabs_box>div{
+    display: none;
+}
+.tab_news>div.show,.tabs_box>div.show{
+    display: block;
+}
